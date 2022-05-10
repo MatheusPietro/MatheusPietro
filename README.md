@@ -2,7 +2,7 @@
 
 
 
-- 🔭 Hoje trabalho com Vendas
+- 🔭 Hoje com suporte técnico
 - 🌱 Estou estudando Frond end
 - 💬 Contate-me no e-mail: pietrooliveiracosta@yahoo.com.br
 
