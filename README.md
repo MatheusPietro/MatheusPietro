@@ -1,56 +1,58 @@
-👨‍💻 Olá, eu sou o Matheus Pietro
+# Olá, eu sou o Matheus Pietro 👋
 
-🎯 Desenvolvedor Full Stack
-💼 Experiência com aplicações web corporativas
-🚀 Foco em performance, organização e boas práticas
+Sou um desenvolvedor apaixonado por tecnologia, atualmente focado no ecossistema **Full Stack** com **.NET** e **Angular**. Tenho experiência com suporte técnico, o que me deu uma base sólida para resolução de problemas e foco na experiência do usuário.
 
-🚀 Sobre mim
+---
 
-Atualmente atuo com desenvolvimento e suporte técnico, trabalhando na criação e manutenção de sistemas web.
+### 🚀 Sobre Mim
+- 🔭 Atualmente trabalhando com **Suporte Técnico** e projetos em **.NET / Angular**.
+- 🌱 Aprimorando conhecimentos em **C#, TypeScript e Arquitetura MVC**.
+- 💼 No dia a dia, utilizo **SQL Server** e foco em soluções escaláveis.
+- 💬 Entre em contato: [pietrooliveiracosta@yahoo.com.br](mailto:pietrooliveiracosta@yahoo.com.br)
 
-Tenho experiência no desenvolvimento de aplicações utilizando arquitetura MVC, APIs RESTful e integração com banco de dados.
+---
 
-Estou constantemente evoluindo meus conhecimentos em Front-end moderno com Angular e TypeScript, buscando sempre escrever código limpo e escalável.
+### 🛠️ Tecnologias e Ferramentas
 
-📩 Contato: pietrooliveiracosta@yahoo.com.br
+**Frontend**
+<div style="display: inline-block">
+  <img align="center" alt="HTML5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS3" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="TypeScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
+  <img align="center" alt="Angular" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg">
+</div>
 
-🛠️ Tecnologias e Ferramentas
-🔹 Back-end
+**Backend & Database**
+<div style="display: inline-block">
+  <img align="center" alt="C#" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img align="center" alt=".NET" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg">
+  <img align="center" alt="SQL Server" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg">
+</div>
 
-C#
+---
 
-ASP.NET MVC
+### 📊 Estatísticas do GitHub
 
-.NET Core / .NET
+<div align="center">
+  <a href="https://github.com/MatheusPietro">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MatheusPietro&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusPietro&layout=compact&langs_count=7&theme=dark"/>
+  </a>
+</div>
 
-APIs REST
+---
 
-Entity Framework
+### 🌐 Conecte-se Comigo
+<div align="left">
+  <a href="https://www.linkedin.com/in/matheus-pietro-486a0712b" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="https://www.instagram.com/matheuspietroo_/" target="_blank">
+    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+  </a>
+</div>
 
-🔹 Front-end
+<br>
 
-Angular
-
-TypeScript
-
-JavaScript
-
-HTML5
-
-CSS3
-
-Bootstrap
-
-🔹 Banco de Dados
-
-SQL Server
-
-MySQL
-
-📊 Estatísticas GitHub
-<div align="center"> <a href="https://github.com/MatheusPietro"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MatheusPietro&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusPietro&layout=compact&langs_count=7&theme=dark"/> </div>
-🌐 Conecte-se comigo
-<a href="https://www.linkedin.com/in/matheus-pietro-486a0712b" target="_blank"> <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"> </a> <a href="https://www.instagram.com/matheuspietroo_/" target="_blank"> <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"> </a>
-💡 Objetivo
-
-Desenvolver soluções modernas, escaláveis e bem estruturadas, aplicando boas práticas de arquitetura e código limpo.
+![Snake animation](https://github.com/MatheusPietro/MatheusPietro/blob/output/github-contribution-grid-snake.svg)
