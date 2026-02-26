@@ -32,14 +32,6 @@ Sou um **Desenvolvedor Full Stack** focado em criar soluções robustas e escal�
 
 ---
 
-### 📊 Estatísticas do GitHub
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MatheusPietro&show_icons=true&theme=dark&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusPietro&layout=compact&langs_count=7&theme=dark" />
-</div>
-
----
 
 ### 🌐 Conecte-se Comigo
 <div align="left">
