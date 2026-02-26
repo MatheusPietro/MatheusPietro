@@ -1,13 +1,12 @@
 # Olá, eu sou o Matheus Pietro 👋
 
-Sou um desenvolvedor apaixonado por tecnologia, atualmente focado no ecossistema **Full Stack** com **.NET** e **Angular**. Tenho experiência com suporte técnico, o que me deu uma base sólida para resolução de problemas e foco na experiência do usuário.
+Sou um desenvolvedor apaixonado por tecnologia, focado no ecossistema **Full Stack** com **.NET** e **Angular**. Tenho sólida experiência com **C#, JavaScript, TypeScript** e bancos de dados SQL.
 
 ---
 
 ### 🚀 Sobre Mim
 - 🔭 Atualmente trabalhando com **Suporte Técnico** e projetos em **.NET / Angular**.
 - 🌱 Aprimorando conhecimentos em **C#, TypeScript e Arquitetura MVC**.
-- 💼 No dia a dia, utilizo **SQL Server** e foco em soluções escaláveis.
 - 💬 Entre em contato: [pietrooliveiracosta@yahoo.com.br](mailto:pietrooliveiracosta@yahoo.com.br)
 
 ---
@@ -35,10 +34,8 @@ Sou um desenvolvedor apaixonado por tecnologia, atualmente focado no ecossistema
 ### 📊 Estatísticas do GitHub
 
 <div align="center">
-  <a href="https://github.com/MatheusPietro">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MatheusPietro&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusPietro&layout=compact&langs_count=7&theme=dark"/>
-  </a>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MatheusPietro&show_icons=true&theme=dark&include_all_commits=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusPietro&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
 ---
@@ -46,13 +43,9 @@ Sou um desenvolvedor apaixonado por tecnologia, atualmente focado no ecossistema
 ### 🌐 Conecte-se Comigo
 <div align="left">
   <a href="https://www.linkedin.com/in/matheus-pietro-486a0712b" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
   <a href="https://www.instagram.com/matheuspietroo_/" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
   </a>
 </div>
-
-<br>
-
-![Snake animation](https://github.com/MatheusPietro/MatheusPietro/blob/output/github-contribution-grid-snake.svg)
