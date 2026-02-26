@@ -1,12 +1,13 @@
 # Olá, eu sou o Matheus Pietro 👋
 
-Sou um desenvolvedor apaixonado por tecnologia, focado no ecossistema **Full Stack** com **.NET** e **Angular**. Tenho sólida experiência com **C#, JavaScript, TypeScript** e bancos de dados SQL.
+Sou um **Desenvolvedor Full Stack** focado em criar soluções robustas e escaláveis utilizando o ecossistema **.NET** e **Angular**. Tenho sólida experiência no ciclo de desenvolvimento de software, desde a modelagem de dados até a interface do usuário.
 
 ---
 
 ### 🚀 Sobre Mim
-- 🔭 Atualmente trabalhando com **Suporte Técnico** e projetos em **.NET / Angular**.
-- 🌱 Aprimorando conhecimentos em **C#, TypeScript e Arquitetura MVC**.
+- 🔭 Atualmente focado em desenvolvimento de sistemas com **C# (.NET)** e **Angular**.
+- 🌱 Aprofundando conhecimentos em **Arquitetura de Software (Clean Architecture)** e **Design Patterns**.
+- 💼 Experiência com projetos **MVC** e integração com **SQL Server**.
 - 💬 Entre em contato: [pietrooliveiracosta@yahoo.com.br](mailto:pietrooliveiracosta@yahoo.com.br)
 
 ---
@@ -31,6 +32,14 @@ Sou um desenvolvedor apaixonado por tecnologia, focado no ecossistema **Full Sta
 
 ---
 
+### 📊 Estatísticas do GitHub
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MatheusPietro&show_icons=true&theme=dark&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusPietro&layout=compact&langs_count=7&theme=dark" />
+</div>
+
+---
 
 ### 🌐 Conecte-se Comigo
 <div align="left">
